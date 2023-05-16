@@ -1,0 +1,1 @@
+ -L RISCV_lib -l ../transcript.txt -i -t ns -multisource_delay latest +typdelays RISCV_lib.soc_tb(struct)

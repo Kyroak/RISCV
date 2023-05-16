@@ -1,0 +1,288 @@
+# vsim -f hds_args.tmp -no_autoacc -foreign "hdsInit /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll" -pli ""/ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll"" 
+# Start time: 15:18:59 on May 09,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.soc_tb(struct)#1
+# Loading work.soc(struct)#1
+# Loading work.peripherie_01(generatedinstance)#1
+# Loading work.opcode_word
+# Loading work.riscv(struct)#1
+# Loading ieee.numeric_std(body)
+# Loading work.add4(behav)#1
+# Loading work.alu(generatedinstance)#1
+# Loading work.bpu(generatedinstance)#1
+# Loading work.dc_reg(generatedinstance)#1
+# Loading work.dec(generatedinstance)#1
+# Loading work.dm(generatedinstance)#1
+# Loading work.dm_reg(generatedinstance)#1
+# Loading work.ex_reg(generatedinstance)#1
+# Loading work.if_reg(generatedinstance)#1
+# Loading work.im(behav)#1
+# Loading work.mp_if(generatedinstance)#1
+# Loading work.pc_reg(behav)#1
+# Loading work.rf(generatedinstance)#1
+# Loading work.clk_gen(behav)#1
+# Loading /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll
+add wave -position end  sim:/soc_tb/clk
+add wave -position end  sim:/soc_tb/res_n
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /soc_tb/i_soc/U_0/U_0
+# 0
+# 
+run
+# 0
+# 
+run
+# 0
+# 
+run
+# 0
+# 
+run
+# 0
+# 
+run
+# 0
+# 
+# hds_restart
+restart -force
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.soc_tb(struct)#1
+# Loading work.soc(struct)#1
+# Loading work.peripherie_01(generatedinstance)#1
+# Loading work.opcode_word
+# Loading work.riscv(struct)#1
+# Loading ieee.numeric_std(body)
+# Loading work.add4(behav)#1
+# Loading work.alu(generatedinstance)#1
+# Loading work.bpu(generatedinstance)#1
+# Loading work.dc_reg(generatedinstance)#1
+# Loading work.dec(generatedinstance)#1
+# Loading work.dm(generatedinstance)#1
+# Loading work.dm_reg(generatedinstance)#1
+# Loading work.ex_reg(generatedinstance)#1
+# Loading work.if_reg(generatedinstance)#1
+# Loading work.im(behav)#1
+# Loading work.mp_if(generatedinstance)#1
+# Loading work.pc_reg(behav)#1
+# Loading work.rf(generatedinstance)#1
+# Loading work.clk_gen(behav)#1
+# Loading /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /soc_tb/i_soc/U_0/U_0
+run
+# 0
+# 
+run
+# 0
+# 
+run
+# ** Fatal: (vsim-3421) Value 16 is out of range 0 to 15.
+#    Time: 340 ns  Iteration: 2  Process: /soc_tb/i_soc/U_0/U_0/line__22 File: /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd Line: 24
+# 0
+# Fatal error in Process line__22 at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd line 24
+# 
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# 0
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+# hds_start \$HDS_PROJECT_DIR/RISCV_lib/questasim/work
+# End time: 15:23:24 on May 09,2023, Elapsed time: 0:04:25
+# Errors: 1, Warnings: 1
+# reading modelsim.ini
+vsim -L RISCV_lib -l ../transcript.txt -i -t ns -multisource_delay latest +typdelays RISCV_lib.riscv(struct)
+# vsim -L RISCV_lib -l ../transcript.txt -i -t ns -multisource_delay latest "+typdelays" RISCV_lib.riscv(struct) -foreign "hdsInit /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll" -pli ""/ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll"" 
+# Start time: 15:23:24 on May 09,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vsim-3865) Due to PLI being present, global +acc is being enabled automatically. This will cause your simulation to run very slowly. Please use vsim -no_autoacc to disable this feature. This feature is now deprecated and will be removed from future releases.
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.opcode_word
+# Loading work.riscv(struct)#1
+# Loading ieee.numeric_std(body)
+# Loading work.add4(behav)#1
+# Loading work.alu(generatedinstance)#1
+# Loading work.bpu(generatedinstance)#1
+# Loading work.dc_reg(generatedinstance)#1
+# Loading work.dec(generatedinstance)#1
+# Loading work.dm(generatedinstance)#1
+# Loading work.dm_reg(generatedinstance)#1
+# Loading work.ex_reg(generatedinstance)#1
+# Loading work.if_reg(generatedinstance)#1
+# Loading work.im(behav)#1
+# Loading work.mp_if(generatedinstance)#1
+# Loading work.pc_reg(behav)#1
+# Loading work.rf(generatedinstance)#1
+# Loading /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /riscv/im_one
+# 0
+# 
+run
+# 0
+# 
+run
+# 0
+# 
+run
+# 0
+# 
+run
+# 0
+# 
+# hds_start \$HDS_PROJECT_DIR/RISCV_lib/questasim/work
+# End time: 15:24:04 on May 09,2023, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 3
+# reading modelsim.ini
+vsim -L RISCV_lib -l ../transcript.txt -i -t ns -multisource_delay latest +typdelays RISCV_lib.soc_tb(struct)
+# vsim -L RISCV_lib -l ../transcript.txt -i -t ns -multisource_delay latest "+typdelays" RISCV_lib.soc_tb(struct) -foreign "hdsInit /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll" -pli ""/ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll"" 
+# Start time: 15:24:04 on May 09,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: (vsim-3865) Due to PLI being present, global +acc is being enabled automatically. This will cause your simulation to run very slowly. Please use vsim -no_autoacc to disable this feature. This feature is now deprecated and will be removed from future releases.
+# ** Warning: (vopt-10587) Some optimizations are turned off because the +acc switch is in effect. This will cause your simulation to run slowly. Please use -access/-debug to maintain needed visibility.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.soc_tb(struct)#1
+# Loading work.soc(struct)#1
+# Loading work.peripherie_01(generatedinstance)#1
+# Loading work.opcode_word
+# Loading work.riscv(struct)#1
+# Loading ieee.numeric_std(body)
+# Loading work.add4(behav)#1
+# Loading work.alu(generatedinstance)#1
+# Loading work.bpu(generatedinstance)#1
+# Loading work.dc_reg(generatedinstance)#1
+# Loading work.dec(generatedinstance)#1
+# Loading work.dm(generatedinstance)#1
+# Loading work.dm_reg(generatedinstance)#1
+# Loading work.ex_reg(generatedinstance)#1
+# Loading work.if_reg(generatedinstance)#1
+# Loading work.im(behav)#1
+# Loading work.mp_if(generatedinstance)#1
+# Loading work.pc_reg(behav)#1
+# Loading work.rf(generatedinstance)#1
+# Loading work.clk_gen(behav)#1
+# Loading /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /soc_tb/i_soc/risv5_one/im_one
+# 0
+# 
+run
+# 0
+# 
+add wave -position insertpoint  \
+sim:/soc_tb/clk \
+sim:/soc_tb/res_n
+add wave -position insertpoint  \
+sim:/soc_tb/i_soc/risv5_one/im_one/if_u_instr
+add wave -position insertpoint  \
+sim:/soc_tb/i_soc/risv5_one/add4_one/pc_if
+add wave -position insertpoint  \
+sim:/soc_tb/i_soc/risv5_one/add4_one/if_u_next_pc
+# hds_add_probe /soc_tb/i_soc/risv5_one/ if_u_instr
+# hds_add_probe /soc_tb/i_soc/risv5_one/ pc_if
+# hds_add_probe /soc_tb/i_soc/risv5_one/ if_u_next_pc
+run
+# 0
+# 
+run
+# ** Fatal: (vsim-3421) Value 16 is out of range 0 to 15.
+#    Time: 340 ns  Iteration: 2  Process: /soc_tb/i_soc/risv5_one/im_one/line__22 File: /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd Line: 24
+# 0
+# Fatal error in Process line__22 at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd line 24
+# 
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# 0
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd 24 Process line__22
+# 
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-8009) Loading existing optimized design _opt2
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading /ext/eda/hds/2022_3/resources/downstream/modelsim/ModelSim_64Bit.dll
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ns  Iteration: 0  Instance: /soc_tb/i_soc/risv5_one/im_one
+run
+# 0
+# 
+run
+# 0
+# 
+# End time: 15:33:47 on May 09,2023, Elapsed time: 0:09:43
+# Errors: 0, Warnings: 2

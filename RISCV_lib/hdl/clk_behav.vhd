@@ -1,0 +1,27 @@
+--
+-- VHDL Architecture RISCV_lib.clk.behav
+--
+-- Created:
+--          by - flxpuchr.meyer (pc032)
+--          at - 14:40:38 05/09/23
+--
+-- using Mentor Graphics HDL Designer(TM) 2022.3 Built on 14 Jul 2022 at 13:56:12
+--
+ARCHITECTURE behav OF clk_gen IS
+BEGIN
+  osc: process is
+  begin 
+    clk <='1';
+    wait for 10 ns ;
+    clk <= '0';
+    wait for 10 ns ;
+  end process osc;
+    
+  reset: process is begin
+    res_n <= '0';
+    wait for 30 ns;
+    res_n <= '1';
+    wait;
+  end process reset;
+END ARCHITECTURE behav;
+

@@ -1,0 +1,68 @@
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 0
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 42,0 9 0 
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 11
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 0,0 14 2 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 192,0 19 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 194,0 20 0 
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 21
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 22
+LIBRARY RISCV_lib
+DESIGN @s@o@c
+VIEW struct
+GRAPHIC 139,0 24 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 174,0 26 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 184,0 27 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 129,0 30 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 174,0 32 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 184,0 33 0 
+LIBRARY RISCV_lib
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 36
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 139,0 39 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 129,0 40 0 
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 139,0 47 0 
+DESIGN soc_tb
+VIEW struct.bd
+GRAPHIC 129,0 52 0 
+DESIGN soc_tb
+VIEW struct.bd
+NO_GRAPHIC 58

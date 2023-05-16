@@ -1,0 +1,24 @@
+DESIGN if_reg
+VIEW interface
+NO_GRAPHIC 0
+DESIGN if_reg
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN if_reg
+VIEW interface
+GRAPHIC 152,0 15 0 
+DESIGN if_reg
+VIEW interface
+GRAPHIC 157,0 16 0 
+DESIGN if_reg
+VIEW interface
+GRAPHIC 167,0 17 0 
+DESIGN if_reg
+VIEW interface
+GRAPHIC 162,0 18 0 
+DESIGN if_reg
+VIEW interface
+GRAPHIC 1,0 21 0 
+DESIGN if_reg
+VIEW interface
+GRAPHIC 1,0 22 0 
