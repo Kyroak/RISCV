@@ -14,11 +14,14 @@ BEGIN
   process(clk, res_n) is begin
    
     if res_n='0' then
+      instr_dc <= (others => '0');
       pc_dec <= (others => '0');
   
     else
       if clk'event and clk = '1' then 
-        pc_dec <= if_u_instr; 
+        instr_dc <= if_u_instr; 
+        pc_dec <= pc_if;
+        
       end if;
     end if;
   end process;

@@ -1,0 +1,82 @@
+--
+-- VHDL Architecture RISCV_lib.alu.behav
+--
+-- Created:
+--          by - flxpuchr.meyer (pc032)
+--          at - 16:03:54 05/16/23
+--
+-- using Mentor Graphics HDL Designer(TM) 2022.3 Built on 14 Jul 2022 at 13:56:12
+--
+
+
+library ieee;
+use ieee.numeric_std.all;
+library RISCV_lib;
+use RISCV_lib.all;
+
+
+ARCHITECTURE behav OF alu IS
+  signal control, n_flag, c_flag, v_flag, z_flag : std_logic;
+  signal result : word;
+BEGIN
+  control <= '1' when alu_mode_ex= add else '0';
+  
+  process(alu_mode_ex,value_b, value_a, result) is
+  begin  
+    case alu_mode_ex  is  
+    
+  
+      when add | sub => alu_out_ex <= result;
+        
+      when and_cmd => alu_out_ex <= value_b and value_a;
+      when or_cmd => alu_out_ex <= value_b or value_a;
+      when xor_cmd => alu_out_ex <= value_b xor value_a;
+      when sll_cmd => alu_out_ex <= word(shift_left(unsigned(value_a), to_integer(unsigned(value_b))));
+      when srl_cmd => alu_out_ex <= word(shift_right(unsigned(value_a), to_integer(unsigned(value_b))));
+      when sra_cmd => alu_out_ex <= word(shift_right(signed(value_a), to_integer(unsigned(value_b))));-- evtl. fehlerbehaftet value b Umwanlung in unsigned oder signed nicht geprüft
+      when slt_cmd => 
+        if (n_flag xor v_flag) = '1' then 
+          alu_out_ex <= (0=>'1', others => '0'); 
+        else 
+          alu_out_ex <= (others => '0') ;
+        end if;
+      when sltu_cmd =>
+        if c_flag = '1' then 
+          alu_out_ex <= (0=>'1', others => '0');
+        else 
+          alu_out_ex <= (others => '0') ;
+        end if;
+      when lui_cmd =>
+        alu_out_ex <= value_b;
+        
+      
+        
+        
+     
+    
+    
+      when others => 
+  
+  
+    end case;
+  
+  end process;
+  
+  
+  
+  
+  au_ins: entity au
+  port map (
+              au_x => value_a,
+              au_y => value_b,
+              control => control,
+              n_flag => n_flag,
+              z_flag => z_flag,
+              v_flag => v_flag,
+              c_flag => c_flag,
+              result => result);
+
+               
+  
+END ARCHITECTURE behav;
+

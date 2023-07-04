@@ -5,6 +5,176 @@ Z0 !s99 nomlopt
 R0
 R0
 R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
 !s11e MIXED_VERSIONS
 13
 !s112 1.1
@@ -14,10 +184,10 @@ R0
 cModel Technology
 Z1 d/u/home/stud/flxpuchr
 T_opt
-!s110 1683638480
-Vg>`hAYIX>[ZDlA8h:C:0d2
+!s110 1688467946
+V]<5bgBnoVQ@hZiGQO?IOX2
 Z2 04 6 6 work soc_tb struct 1
-=2-a8a159d0b5ab-645a48d0-98955-1de8
+=1-a8a159d0b5ab-64a3f9ea-b420b-3398
 R0
 Z3 !s12b OEM100
 Z4 !s124 OEM100
@@ -25,7 +195,6 @@ o-quiet -work RISCV_lib -L RISCV_lib
 Z5 tCvgOpt 0
 n@_opt
 Z6 OL;O;2022.4_2;75
-R1
 T_opt1
 !s110 1683638604
 VI0>dYD:JN9@9cK>jKEl1<1
@@ -53,11 +222,11 @@ n@_opt2
 R6
 R1
 Eadd4
-Z8 w1683637418
-Z9 DPx9 riscv_lib 11 opcode_word 0 22 kXS<93HMUe5BIh[YWI>:M2
+Z8 w1687886554
+Z9 DPx9 riscv_lib 11 opcode_word 0 22 K^2kM@R62AeW@D=1Ui0cz3
 Z10 DPx3 std 6 textio 0 22 LS[?81n5ZHWBI9JkBZTV<2
 Z11 DPx4 ieee 14 std_logic_1164 0 22 6<US`=mgl_dFdCEFF7J=m1
-!i122 3
+!i122 256
 Z12 d/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/questasim/work
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd
@@ -67,67 +236,90 @@ VJNzOiTD;zONRi[VUD<]FZ2
 !s100 U`zRU4Khkd>Sf2coP4PH:1
 Z14 OL;C;2022.4_2;75
 33
-Z15 !s110 1683638155
+Z15 !s110 1688467916
 !i10b 1
-Z16 !s108 1683638155.000000
+Z16 !s108 1688467916.000000
 Z17 !s90 -work|RISCV_lib|-nologo|-2008|-f|/tmp/Files0|
-Z18 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|
+Z18 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd|
 !i113 0
 Z19 o-nologo -work RISCV_lib -2008
 Z20 tExplicit 1 CvgOpt 0
 Abehav
-w1683638299
 R9
 DEx4 work 4 add4 0 22 JNzOiTD;zONRi[VUD<]FZ2
 R11
 R10
 Z21 DPx4 ieee 11 numeric_std 0 22 F8@]:i<mFK7<TjIzKcTGi0
-!i122 4
+!i122 256
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd
 l15
-L14 11
+Z22 L14 11
 Vk=nbOgP=GI^memlX;]iP:0
 !s100 bcPRDZ^I]eE@69D6e[5Of2
 R14
 33
-Z22 !s110 1683638308
+R15
 !i10b 1
-Z23 !s108 1683638308.000000
+R16
 R17
-Z24 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|
+R18
 !i113 0
 R19
 R20
 Ealu
-Z25 w1683638602
+R8
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd
 l0
 R13
-VXG2C>9[FXDMMjh]H?JzKS1
-!s100 3BUEhJn<E8RQ6e]MiKjFK2
+VPk6]><IHUC^`G:lW<CMf50
+!s100 XkeJEjiQf>WzQ>:78:hbG2
 R14
 33
-Z26 !s110 1683638602
+Z23 !s110 1688467943
 !i10b 1
-Z27 !s108 1683638602.000000
+Z24 !s108 1688467943.000000
 R17
-Z28 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|
+Z25 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd|
+!i113 0
+R19
+R20
+Abehav
+DEx9 riscv_lib 2 au 0 22 MI>j?Sb_;]Qd:=]g:3X0n2
+R9
+DEx4 work 3 alu 0 22 Pk6]><IHUC^`G:lW<CMf50
+R11
+R10
+R21
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd
+l21
+L18 66
+Vbf?haaDh2[4d:gK8S;k;61
+!s100 dcWd^CND>keA=DC_W^SC]2
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
 !i113 0
 R19
 R20
 Ageneratedinstance
-R9
+Z26 DPx9 riscv_lib 11 opcode_word 0 22 zH9H^45^JR6[H<OC^4eN40
 R10
 R11
 DEx4 work 3 alu 0 22 XG2C>9[FXDMMjh]H?JzKS1
-!i122 5
+!i122 10
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd
 l5
@@ -136,34 +328,126 @@ VcPNejn>ehON0C3X6fJYGJ2
 !s100 zEFQMA:GnJOoL>h04S0jd0
 R14
 33
-R26
+Z27 !s110 1684241138
 !i10b 1
-R27
+Z28 !s108 1684241138.000000
 R17
-R28
+Z29 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|
+!i113 0
+R19
+R20
+Z30 w1684241137
+Eau
+R8
+R9
+R10
+R11
+!i122 257
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd
+l0
+R13
+VMI>j?Sb_;]Qd:=]g:3X0n2
+!s100 N;L[3KBUO>BlYAg^i5d2n2
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Abehav
+R9
+DEx4 work 2 au 0 22 MI>j?Sb_;]Qd:=]g:3X0n2
+R11
+R10
+R21
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd
+l16
+Z31 L13 44
+VJ<Okd^f`C]EH7fUT7[V`i0
+!s100 Fb:>FMW;TG9IJU;;e[C;:2
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Ebig_to_little_endian
+Z32 w1687270931
+Z33 DPx9 riscv_lib 11 opcode_word 0 22 Q[ICoQ>86hX@O;9NZY2Y60
+R10
+R11
+!i122 145
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/big_to_little_endian_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/big_to_little_endian_entity.vhd
+l0
+R13
+Vi3^IQ88O51gb9MWSf_A6P2
+!s100 TTgoTTG?n8HDKHhmVYN5:2
+R14
+33
+Z34 !s110 1687277062
+!i10b 1
+Z35 !s108 1687277062.000000
+R17
+Z36 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/big_to_little_endian_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/big_to_little_endian_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 20 big_to_little_endian 0 22 i3^IQ88O51gb9MWSf_A6P2
+R10
+R11
+R33
+!i122 145
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/big_to_little_endian_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/big_to_little_endian_behav.vhd
+l16
+L15 10
+V87OQUnAz[GOo<Rk_jJ;oh2
+!s100 @G8a21]H2N>jfDBQ]2:]F3
+R14
+33
+R34
+!i10b 1
+R35
+R17
+R36
 !i113 0
 R19
 R20
 Ebpu
-R25
+Z37 w1688467942
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd
 l0
 R13
-V8MdGh]MShl[SW;63N1>Ad3
-!s100 6?XSA8N1c<ALAJb]`@QiO1
+VJ26Lifo[=`l>j:2hhecLJ1
+!s100 ]i1^9j>UK8E6blQH<l6JD2
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
 !i113 0
 R19
 R20
@@ -171,8 +455,8 @@ Ageneratedinstance
 R9
 R10
 R11
-DEx4 work 3 bpu 0 22 8MdGh]MShl[SW;63N1>Ad3
-!i122 5
+DEx4 work 3 bpu 0 22 J26Lifo[=`l>j:2hhecLJ1
+!i122 257
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd
 l5
@@ -181,87 +465,109 @@ Vzh6=9;WH4i5^aZ`OEK__<3
 !s100 XXFgMDPLd3T[XWBe30HXe0
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
 !i113 0
 R19
 R20
 Eclk_gen
-Z29 w1683637390
+R8
 R10
 R11
-!i122 0
+!i122 238
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_gen_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_gen_entity.vhd
 l0
-Z30 L12 1
+Z38 L12 1
 Vn;VeLZ_S52i=L_T;4TR<j0
 !s100 ogJ6ceK[AI^3_YYdEKQ[m0
 R14
 33
-Z31 !s110 1683637491
+Z39 !s110 1687886555
 !i10b 1
-Z32 !s108 1683637491.000000
+Z40 !s108 1687886555.000000
 R17
-Z33 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_gen_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_entity.vhd|
+Z41 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_gen_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_entity.vhd|
 !i113 0
 R19
 R20
 Abehav
-w1683638449
 R10
 R11
 DEx4 work 7 clk_gen 0 22 n;VeLZ_S52i=L_T;4TR<j0
-!i122 5
+!i122 238
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_behav.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_behav.vhd
 l11
-L10 17
+Z42 L10 17
 VO7e]>G`J0=J`N^4NJ8iJb3
 !s100 E:<L@o>Yj4WRNOZZd=?MX1
 R14
 33
-!s110 1683638478
+R39
 !i10b 1
-!s108 1683638478.000000
+R40
 R17
-!s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_behav.vhd|
+R41
 !i113 0
 R19
 R20
 Edc_reg
-R25
+Z43 w1687891339
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd
 l0
 R13
-V?IC?EEJ``V^IkeGIRSDP60
-!s100 ECe]Le`zkVR=fAo1n5V5E1
+V58z:Mfo2F;A_mM9N;dB933
+!s100 `Oo8GMUe9dcQVUMhSJHW62
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
+!i113 0
+R19
+R20
+Abehav
+w1687891995
+DEx4 work 6 dc_reg 0 22 58z:Mfo2F;A_mM9N;dB933
+R10
+R11
+R9
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd
+l13
+L12 34
+V:3^O:4hL<mBPiBVJD9Qzf3
+!s100 dih=i0SiB=8H@BYzbF?db3
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
 !i113 0
 R19
 R20
 Ageneratedinstance
-R9
+R26
 R10
 R11
 DEx4 work 6 dc_reg 0 22 ?IC?EEJ``V^IkeGIRSDP60
-!i122 5
+!i122 10
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd
 l5
@@ -270,39 +576,63 @@ V1OP2h@5g4BiPDORVc<On53
 !s100 Y4@e>^[?bo8=BI?meJ[VR0
 R14
 33
-R26
-!i10b 1
 R27
-R17
+!i10b 1
 R28
+R17
+R29
 !i113 0
 R19
 R20
+R30
 Edec
-R25
+R43
 R9
 R10
 R11
-!i122 5
+!i122 256
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd
 l0
 R13
-V2zfmjo^X_28HR`h4`NoY90
-!s100 db>2RA5VL<6?o:QMXcaO70
+VoHZ1_8]K8hA82D;cgSQIX0
+!s100 <XN@ei1]X:VDJMYf^62GO1
 R14
 33
-R26
+R15
 !i10b 1
-R27
+R16
 R17
-R28
+R18
+!i113 0
+R19
+R20
+Abehav
+w1688467940
+DEx4 work 3 dec 0 22 oHZ1_8]K8hA82D;cgSQIX0
+R10
+R11
+R9
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd
+l16
+L12 73
+VJl5:OWGX28`Hza191PZbe3
+!s100 ]hXAn[8QX;QXzc17hb;E51
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
 !i113 0
 R19
 R20
 Ageneratedinstance
-R9
+Z44 DPx9 riscv_lib 11 opcode_word 0 22 kXS<93HMUe5BIh[YWI>:M2
 R10
 R11
 DEx4 work 3 dec 0 22 2zfmjo^X_28HR`h4`NoY90
@@ -315,43 +645,159 @@ VST;jUU6A^<l>HTR;>i8O@2
 !s100 3=_m7WmcX;40S4LJm74cI0
 R14
 33
-R26
+Z45 !s110 1683638602
 !i10b 1
-R27
+Z46 !s108 1683638602.000000
 R17
-R28
+Z47 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|
+!i113 0
+R19
+R20
+Z48 w1683638602
+Edec_add_one
+R8
+R9
+R10
+R11
+!i122 256
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_entity.vhd
+l0
+R13
+V<YJ@@JiYE]`0FkH3c=_LZ1
+!s100 3^jS9G_9F9l@^n8N^]hF[0
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Abehav
+R9
+DEx4 work 11 dec_add_one 0 22 <YJ@@JiYE]`0FkH3c=_LZ1
+R21
+R10
+R11
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_behav.vhd
+l17
+L16 4
+V4hbO[iN=CzWN_Akl:<eo92
+!s100 3d2HEcO:L0RifeEVXb;JH2
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Edec_mux_imm
+R8
+R9
+R10
+R11
+!i122 256
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_entity.vhd
+l0
+R13
+V[_VLUbA`gOGUQ8@9BDaeR2
+!s100 <AF_Xh;KO4FR7lk2An]:[0
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Abehav
+R9
+R10
+R11
+DEx4 work 11 dec_mux_imm 0 22 [_VLUbA`gOGUQ8@9BDaeR2
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_behav.vhd
+l11
+L10 11
+VPkdFGR3UoakdScmejL^PB2
+!s100 K<5FGOWD^PUd384CiPF8f0
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
 !i113 0
 R19
 R20
 Edm
-R25
+R8
 R9
 R10
 R11
-!i122 5
+!i122 256
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd
 l0
 R13
-V=o_]U9`72IO:PNbeEZDZ22
-!s100 ZMK6kAjN09Vh3CBf3o>F`3
+VZGT>WF:8BkaWK8^EZ8`N_0
+!s100 1Dl1_0@ncm>z>YJe<2jbI2
 R14
 33
-R26
+R15
 !i10b 1
-R27
+R16
 R17
-R28
+R18
+!i113 0
+R19
+R20
+Abehav
+w1687886755
+DEx4 work 2 dm 0 22 ZGT>WF:8BkaWK8^EZ8`N_0
+R21
+R10
+R11
+R9
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_behav.vhd
+l26
+L15 147
+VR@GJHfWAn?3Km7jjM@In03
+!s100 oFh;n@g]m88m2LVC0b`<z3
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
 !i113 0
 R19
 R20
 Ageneratedinstance
-R9
+DPx9 riscv_lib 11 opcode_word 0 22 >6;8n6ZW^m6gV42Y6PTP^2
 R10
 R11
 DEx4 work 2 dm 0 22 =o_]U9`72IO:PNbeEZDZ22
-!i122 5
+!i122 101
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd
 l5
@@ -360,43 +806,156 @@ V7PnUAfoU8J235QFi4>FYN3
 !s100 nW@38aRSA;kQHSf[c7D:=3
 R14
 33
-R26
+!s110 1686666251
 !i10b 1
-R27
+!s108 1686666251.000000
 R17
-R28
+!s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_mux_imm_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_add_one_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/add4_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/clk_gen_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_entity.vhd|
+!i113 0
+R19
+R20
+w1686666251
+Edm_fwd_mux_logic
+R43
+R9
+R10
+R11
+!i122 256
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_entity.vhd
+l0
+R13
+VF9em]_R3n8=:6=i6=Bk>m0
+!s100 ]kaA3S]3fo3j@8=Rde3Ab1
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 16 dm_fwd_mux_logic 0 22 F9em]_R3n8=:6=i6=Bk>m0
+R10
+R11
+R9
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_behav.vhd
+l15
+L14 19
+VOMP38OcgXH>82eRcEM1Ea1
+!s100 _3J_JF9A7S=]f8l^Fj9S12
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Edm_mux
+R8
+R9
+R10
+R11
+!i122 256
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_entity.vhd
+l0
+R13
+Vb;?@1K]3_1YTXWRRbTC:L1
+!s100 S@^:45Jm34VR7N:U`5MSC0
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 6 dm_mux 0 22 b;?@1K]3_1YTXWRRbTC:L1
+R10
+R11
+R9
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_behav.vhd
+l15
+L14 13
+VHYDzEhg[4_gdmj^eDj@k43
+!s100 cUK2PZo3mSGQmjk7QAgOW1
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
 !i113 0
 R19
 R20
 Edm_reg
-R25
+R8
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd
 l0
 R13
-Vh<J2CaN_[l[SGkX^I`oae3
-!s100 _lQj<_IK8n_i6AL[=lc1_2
+VVGK]Z?kBSKO0SP]z=8?5d0
+!s100 XIb1`j;J5nF5_4UQ[P7Oi3
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
+!i113 0
+R19
+R20
+Abehav
+R9
+R10
+R11
+DEx4 work 6 dm_reg 0 22 VGK]Z?kBSKO0SP]z=8?5d0
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd
+l11
+R42
+VJdFoXz=?mTWMbo?4ezZd<1
+!s100 54Hk];i9f;INCnmCVmR>P2
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
 !i113 0
 R19
 R20
 Ageneratedinstance
-R9
+R26
 R10
 R11
 DEx4 work 6 dm_reg 0 22 h<J2CaN_[l[SGkX^I`oae3
-!i122 5
+!i122 10
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_generatedinstance.vhd
 l5
@@ -405,43 +964,66 @@ VTFIibInCJS:hFlXFDU_^`2
 !s100 FNO:UWZmHSzPn^AJI4e2>3
 R14
 33
-R26
-!i10b 1
 R27
-R17
+!i10b 1
 R28
+R17
+R29
 !i113 0
 R19
 R20
+R30
 Eex_reg
-R25
+Z49 w1688462009
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd
 l0
 R13
-VV>P19Rhf1bSUJ7fF=Nl892
-!s100 oWY[f66XQTK^k>Bc6]IdQ0
+VomDgUdJN_[:2n?BBNE^de3
+!s100 U?B>e6PBV3Z@IIZn0zQTz2
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
+!i113 0
+R19
+R20
+Abehav
+R9
+R10
+R11
+DEx4 work 6 ex_reg 0 22 omDgUdJN_[:2n?BBNE^de3
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd
+l11
+L10 21
+VnT_mMhM^`1RKVMJBO>fz=1
+!s100 c1=KjLTcD^]C9n6CdI^NT2
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
 !i113 0
 R19
 R20
 Ageneratedinstance
-R9
+R26
 R10
 R11
 DEx4 work 6 ex_reg 0 22 V>P19Rhf1bSUJ7fF=Nl892
-!i122 5
+!i122 10
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_generatedinstance.vhd
 l5
@@ -450,39 +1032,243 @@ VI<o:Ce5g3c99kIa^EkjWB3
 !s100 3I3H:J_hf??O`2D:?@Mkd3
 R14
 33
-R26
-!i10b 1
 R27
-R17
+!i10b 1
 R28
+R17
+R29
 !i113 0
 R19
 R20
-Eif_reg
-R25
+R30
+Efwd_1
+R43
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
-8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd
-F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd
 l0
 R13
-VFA6IkU@3UQV[CglB7g;Q<3
-!s100 c4f:_OUn75gmMVDTJ3zmY0
+V=NY^71f>9W?oULBz7QIB@0
+!s100 D_zR7_C`6ac_8YZDbkk8i3
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 5 fwd_1 0 22 =NY^71f>9W?oULBz7QIB@0
+R10
+R11
+R9
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_behav.vhd
+l15
+L14 21
+VHnTl5;FXZf5@]841PO<0=1
+!s100 i@K2fOj1^hcQ27cJTWoHP2
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
 !i113 0
 R19
 R20
 Ageneratedinstance
 R9
+R10
+R11
+DEx4 work 5 fwd_1 0 22 h2alhahC02oB<7M4KDoeI2
+!i122 244
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_generatedinstance.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_generatedinstance.vhd
+l5
+L4 5
+VA4TS`aOZBl7<>m8;n6C3;3
+!s100 @c7?Qj@m6Bzjf0R?;C3b]3
+R14
+33
+Z50 !s110 1687887430
+!i10b 1
+Z51 !s108 1687887430.000000
+R17
+Z52 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|
+!i113 0
+R19
+R20
+Z53 w1687886555
+Efwd_2
+R43
+R9
+R10
+R11
+!i122 257
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd
+l0
+R13
+V<JZF6cd6U;71V>45Y[45=1
+!s100 IO[S1RSgVmSz]>mGbGAPR3
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 5 fwd_2 0 22 <JZF6cd6U;71V>45Y[45=1
+R10
+R11
+R9
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_behav.vhd
+l15
+L14 17
+VDYR`@I>KzaS0_0aWK5Cod1
+!s100 FY4_S[c_EFCHJ9omWK7@:1
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Ageneratedinstance
+R9
+R10
+R11
+DEx4 work 5 fwd_2 0 22 Nmj]Mm=C=]PoY?hhS5=jD0
+!i122 244
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_generatedinstance.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_generatedinstance.vhd
+l5
+L4 5
+Vn_nE1>]e3hi_UaHzoYM]j1
+!s100 0g;S5`6ZGGN@2[S<`Ml:k1
+R14
+33
+R50
+!i10b 1
+R51
+R17
+R52
+!i113 0
+R19
+R20
+R53
+Efwd_alu_1
+R37
+R9
+R10
+R11
+!i122 257
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd
+l0
+R13
+VNDSm_doa5?_BfUaCmnilJ2
+!s100 OHD8jiIoFU[1olFYo5^]I3
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Ageneratedinstance
+R9
+R10
+R11
+DEx4 work 9 fwd_alu_1 0 22 NDSm_doa5?_BfUaCmnilJ2
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd
+l5
+L4 5
+VhF9RdIbEg;F6ZghYT9g7=0
+!s100 ILRG>Iif<g?D4<8fS08F^3
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Eif_reg
+R8
+R9
+R10
+R11
+!i122 257
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd
+l0
+R13
+V<o>ghSWWXb0KN_S@nHIno2
+!s100 EZ46O8^nmkdB]P3l`JE8`0
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 6 if_reg 0 22 <o>ghSWWXb0KN_S@nHIno2
+R10
+R11
+R9
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd
+l13
+L12 17
+Vh[<jOY1RjNPC>VQaUMS5b1
+!s100 bMgX^kZJjZTGFHd<j[kSM3
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
+!i113 0
+R19
+R20
+Ageneratedinstance
+R44
 R10
 R11
 DEx4 work 6 if_reg 0 22 FA6IkU@3UQV[CglB7g;Q<3
@@ -495,51 +1281,28 @@ VBeh;>loBQ6NH97F<8DeCL0
 !s100 M?kSH`QKnc5h?KhNGHUm;3
 R14
 33
-R26
+R45
 !i10b 1
-R27
+R46
 R17
-R28
+R47
 !i113 0
 R19
 R20
+R48
 Eim
 R8
 R9
 R10
 R11
-!i122 0
+!i122 256
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd
 l0
 R13
-ViF>AU>Jc23DRZSHi8LIIR0
-!s100 Ecai_PF;<]U:QzQ2J776@3
-R14
-33
-R31
-!i10b 1
-R32
-R17
-R33
-!i113 0
-R19
-R20
-Abehav
-w1683638151
-R9
-DEx4 work 2 im 0 22 iF>AU>Jc23DRZSHi8LIIR0
-R11
-R10
-R21
-!i122 3
-8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd
-F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd
-l20
-L12 22
-VEd^lmdAi:[MfaGg?4^7@g3
-!s100 jEV3ORNmio7zd_OIz>?oM0
+VkL3>N:Hcdj;e:9<OjXZ]G3
+!s100 4bem<1OPiFzIX49O5]F:h1
 R14
 33
 R15
@@ -550,12 +1313,126 @@ R18
 !i113 0
 R19
 R20
+Abehav
+w1688462503
+R9
+DEx4 work 2 im 0 22 kL3>N:Hcdj;e:9<OjXZ]G3
+R11
+R10
+R21
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd
+l51
+Z54 L12 54
+VmUg>0d4^0O9NW2bf9hG3F3
+!s100 zZa]ihj=b7[6oY]zDV<cK2
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Elittle_to_big_endian
+R32
+R33
+R10
+R11
+!i122 146
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_entity.vhd
+l0
+R13
+VJi^1__7e9ZU]`IXLTPECK2
+!s100 ]PH:8UdjL7zaL^zNl8hPR0
+R14
+33
+Z55 !s110 1687277087
+!i10b 1
+Z56 !s108 1687277087.000000
+R17
+Z57 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/if_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_2_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/au_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/alu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dec_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_mux_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/im_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_fwd_mux_logic_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/dm_behav.vhd|
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 20 little_to_big_endian 0 22 Ji^1__7e9ZU]`IXLTPECK2
+R10
+R11
+R33
+!i122 146
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/little_to_big_endian_behav.vhd
+l14
+L13 6
+V^<7>=4@W[^]2JNERH==F22
+!s100 02i@HO[fRQ4cO33`l1^[T1
+R14
+33
+R55
+!i10b 1
+R56
+R17
+R57
+!i113 0
+R19
+R20
+Ememory
+Z58 w1687277086
+R33
+R10
+R11
+!i122 146
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_entity.vhd
+l0
+R13
+Vi1M_4;ADgf8VLT;C0kbR^0
+!s100 PDIeV1E>eRoGYZDD2UQ[Y0
+R14
+33
+R55
+!i10b 1
+R56
+R17
+R57
+!i113 0
+R19
+R20
+Ageneratedinstance
+R33
+R10
+R11
+DEx4 work 6 memory 0 22 i1M_4;ADgf8VLT;C0kbR^0
+!i122 146
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_generatedinstance.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/memory_generatedinstance.vhd
+l5
+L4 5
+Va93bmGOU7=>K0JoDCim?h1
+!s100 ]4?Z3XQ6>F?F[n`Xk>Oab0
+R14
+33
+R55
+!i10b 1
+R56
+R17
+R57
+!i113 0
+R19
+R20
 Emp_if
-R25
+R37
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd
@@ -565,11 +1442,11 @@ VDNMz<WF9_l<OU_L=Fc_h:2
 !s100 Ca2cnC0m=;>VioFWRf<Dc0
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
 !i113 0
 R19
 R20
@@ -578,7 +1455,7 @@ R9
 R10
 R11
 DEx4 work 5 mp_if 0 22 DNMz<WF9_l<OU_L=Fc_h:2
-!i122 5
+!i122 257
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd
 l5
@@ -587,56 +1464,101 @@ VGdLcPi8UzS2m@?c9>2T:W0
 !s100 z]cel7K0`RMO_EDB_e:n]0
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
+!i113 0
+R19
+R20
+Emx_alu_ex
+R43
+R9
+R10
+R11
+!i122 256
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_entity.vhd
+l0
+R13
+V]h_b[I;lPizKT0LKd4Zc`1
+!s100 A]SNi>gAYe4IVZRLP45d[1
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Abehav
+DEx4 work 9 mx_alu_ex 0 22 ]h_b[I;lPizKT0LKd4Zc`1
+R10
+R11
+R9
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mx_alu_ex_behav.vhd
+l15
+R22
+ViGHW3KM10GFO:4zJNQEWD2
+!s100 U``FVc4h@GPQWmT=KUHU^0
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
 !i113 0
 R19
 R20
 Popcode_word
 R10
 R11
-!i122 9
-w1683649144
+!i122 256
+w1688465658
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd
 l0
-L12 40
-VzH9H^45^JR6[H<OC^4eN40
-!s100 aJKj92@GOg_CCZdM75g<N1
+R54
+VK^2kM@R62AeW@D=1Ui0cz3
+!s100 `BSZHNJKNA=TWfALR=6QB0
 R14
 33
 b1
-Z34 !s110 1683649148
+R15
 !i10b 1
-Z35 !s108 1683649148.000000
+R16
 R17
-!s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd|
+R18
 !i113 0
 R19
 R20
 Bbody
-DPx4 work 11 opcode_word 0 22 zH9H^45^JR6[H<OC^4eN40
+DPx4 work 11 opcode_word 0 22 K^2kM@R62AeW@D=1Ui0cz3
 R10
 R11
-!i122 9
-w1683649124
+!i122 256
+w1687874430
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd
 l0
-L10 37
-ViV^9X?hm^7nJn[>;8e;cM2
-!s100 ]Y3f6:K2<l?zao4MPQP7^0
+L10 245
+V6a1dW>aWm9960R5kEWN:E0
+!s100 TemYV^T9=QhAjjCZUbW<10
 R14
 33
-R34
+R15
 !i10b 1
-R35
+R16
 R17
-Z36 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg_body.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/opcode_word_pkg.vhd|
+R18
 !i113 0
 R19
 R20
@@ -645,7 +1567,7 @@ R8
 R9
 R10
 R11
-!i122 4
+!i122 256
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_entity.vhd
@@ -655,11 +1577,11 @@ VmON95N?aRO6B_e0R>:WgM2
 !s100 gbVBk^OOZzQW[Z_Mh^>]z2
 R14
 33
-R22
+R15
 !i10b 1
-R23
+R16
 R17
-R24
+R18
 !i113 0
 R19
 R20
@@ -668,42 +1590,42 @@ R9
 R10
 R11
 DEx4 work 6 pc_reg 0 22 mON95N?aRO6B_e0R>:WgM2
-!i122 4
+!i122 256
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/pc_reg_behav.vhd
 l12
-L10 16
-V>Al4:NP[RkT3ZJ[LnA<_A1
-!s100 e<Y9fIc;QLA0J]NOJXzjz1
+R42
+V57kM]a^8]]YV?5WNFPHk@0
+!s100 7e3?l?m@LHB=8oAVK1`]32
 R14
 33
-R22
+R15
 !i10b 1
-R23
+R16
 R17
-R24
+R18
 !i113 0
 R19
 R20
 Eperipherie_01
-Z37 w1683638643
+R53
 R10
 R11
-!i122 6
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd
 l0
-R30
+R38
 V]JY<ioW@MJO4<g>3mZiZh3
 !s100 N<z@m1:7HH86kB2M2UIID1
 R14
 33
-Z38 !s110 1683638643
+R23
 !i10b 1
-Z39 !s108 1683638643.000000
+R24
 R17
-Z40 !s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_entity.vhd|
+R25
 !i113 0
 R19
 R20
@@ -711,7 +1633,7 @@ Ageneratedinstance
 R10
 R11
 DEx4 work 13 peripherie_01 0 22 ]JY<ioW@MJO4<g>3mZiZh3
-!i122 6
+!i122 257
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd
 l5
@@ -720,43 +1642,111 @@ Vk?5ch>;giBOYg[YnQJCLH0
 !s100 O0=QBBSRV:IKNIlBTYEaf2
 R14
 33
-R38
+R23
 !i10b 1
-R39
+R24
 R17
-R40
+R25
+!i113 0
+R19
+R20
+Eproofer
+R8
+R9
+R10
+R11
+!i122 256
+R12
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_entity.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_entity.vhd
+l0
+R13
+VMW8XbfUl7X2eOADoQ7a<C0
+!s100 Tg6:=W1f:D3D9Y8Fil13d2
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 0
+R19
+R20
+Abehav
+R9
+R10
+R11
+DEx4 work 7 proofer 0 22 MW8XbfUl7X2eOADoQ7a<C0
+!i122 256
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/proofer_behav.vhd
+l11
+L10 27
+Va^43l[I<YN@54ndZWbCFl1
+!s100 7O0leW2k<_eAl`7V2^^WV1
+R14
+33
+R15
+!i10b 1
+R16
+R17
+R18
 !i113 0
 R19
 R20
 Erf
-R25
+R8
 R9
 R10
 R11
-!i122 5
+!i122 257
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_entity.vhd
 l0
 R13
-VllVd?LCA@LA[8oYMC2lD_0
-!s100 =4ff=_>_cSYNl2M?dHzoh3
+VVU^_=6iAlaMLf;JDSGB`:1
+!s100 o7EzC^M_PdYMI?4V7MkO31
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
+!i113 0
+R19
+R20
+Abehav
+R9
+DEx4 work 2 rf 0 22 VU^_=6iAlaMLf;JDSGB`:1
+R11
+R10
+R21
+!i122 257
+8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd
+F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_behav.vhd
+l20
+R31
+VQNB5XUdaXT`dbUbclmgj10
+!s100 [KbUAa=4HF<>ljNWTUg`B3
+R14
+33
+R23
+!i10b 1
+R24
+R17
+R25
 !i113 0
 R19
 R20
 Ageneratedinstance
-R9
+R26
 R10
 R11
 DEx4 work 2 rf 0 22 llVd?LCA@LA[8oYMC2lD_0
-!i122 5
+!i122 10
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/rf_generatedinstance.vhd
 l5
@@ -765,101 +1755,112 @@ VBm8`_Md?;LeGjden^_P`Y1
 !s100 ;J_eL64jejE?=bN<VXZg72
 R14
 33
-R26
-!i10b 1
 R27
-R17
+!i10b 1
 R28
+R17
+R29
 !i113 0
 R19
 R20
+R30
 Eriscv
-R29
+R8
 R10
 R11
-!i122 5
+!i122 253
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd
 l0
-R30
+R38
 VcbkPe4?Hm8<1l6G^jF<oX1
 !s100 PFAjPoFMA?c6EHDAL]?EU2
 R14
 33
-R26
+!s110 1688462010
 !i10b 1
-R27
+!s108 1688462010.000000
 R17
-R28
+!s107 /u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/peripherie_01_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/mp_if_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/bpu_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_generatedinstance.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/fwd_alu_1_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_behav.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/ex_reg_entity.vhd|/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_entity.vhd|
 !i113 0
 R19
 R20
 Astruct
-R25
-DEx9 riscv_lib 2 rf 0 22 llVd?LCA@LA[8oYMC2lD_0
+R37
+DEx9 riscv_lib 2 rf 0 22 VU^_=6iAlaMLf;JDSGB`:1
+DEx9 riscv_lib 7 proofer 0 22 MW8XbfUl7X2eOADoQ7a<C0
 DEx9 riscv_lib 6 pc_reg 0 22 mON95N?aRO6B_e0R>:WgM2
+DEx9 riscv_lib 9 mx_alu_ex 0 22 ]h_b[I;lPizKT0LKd4Zc`1
 DEx9 riscv_lib 5 mp_if 0 22 DNMz<WF9_l<OU_L=Fc_h:2
-DEx9 riscv_lib 2 im 0 22 iF>AU>Jc23DRZSHi8LIIR0
-DEx9 riscv_lib 6 if_reg 0 22 FA6IkU@3UQV[CglB7g;Q<3
-DEx9 riscv_lib 6 ex_reg 0 22 V>P19Rhf1bSUJ7fF=Nl892
-DEx9 riscv_lib 6 dm_reg 0 22 h<J2CaN_[l[SGkX^I`oae3
-DEx9 riscv_lib 2 dm 0 22 =o_]U9`72IO:PNbeEZDZ22
-DEx9 riscv_lib 3 dec 0 22 2zfmjo^X_28HR`h4`NoY90
-DEx9 riscv_lib 6 dc_reg 0 22 ?IC?EEJ``V^IkeGIRSDP60
-DEx9 riscv_lib 3 bpu 0 22 8MdGh]MShl[SW;63N1>Ad3
-DEx9 riscv_lib 3 alu 0 22 XG2C>9[FXDMMjh]H?JzKS1
+DEx9 riscv_lib 2 im 0 22 kL3>N:Hcdj;e:9<OjXZ]G3
+DEx9 riscv_lib 6 if_reg 0 22 <o>ghSWWXb0KN_S@nHIno2
+DEx9 riscv_lib 9 fwd_alu_1 0 22 NDSm_doa5?_BfUaCmnilJ2
+DEx9 riscv_lib 5 fwd_2 0 22 <JZF6cd6U;71V>45Y[45=1
+DEx9 riscv_lib 5 fwd_1 0 22 =NY^71f>9W?oULBz7QIB@0
+DEx9 riscv_lib 6 ex_reg 0 22 omDgUdJN_[:2n?BBNE^de3
+DEx9 riscv_lib 6 dm_reg 0 22 VGK]Z?kBSKO0SP]z=8?5d0
+DEx9 riscv_lib 6 dm_mux 0 22 b;?@1K]3_1YTXWRRbTC:L1
+DEx9 riscv_lib 16 dm_fwd_mux_logic 0 22 F9em]_R3n8=:6=i6=Bk>m0
+DEx9 riscv_lib 2 dm 0 22 ZGT>WF:8BkaWK8^EZ8`N_0
+DEx9 riscv_lib 11 dec_mux_imm 0 22 [_VLUbA`gOGUQ8@9BDaeR2
+DEx9 riscv_lib 11 dec_add_one 0 22 <YJ@@JiYE]`0FkH3c=_LZ1
+DEx9 riscv_lib 3 dec 0 22 oHZ1_8]K8hA82D;cgSQIX0
+DEx9 riscv_lib 6 dc_reg 0 22 58z:Mfo2F;A_mM9N;dB933
+DEx9 riscv_lib 3 bpu 0 22 J26Lifo[=`l>j:2hhecLJ1
+DEx9 riscv_lib 3 alu 0 22 Pk6]><IHUC^`G:lW<CMf50
 DEx9 riscv_lib 4 add4 0 22 JNzOiTD;zONRi[VUD<]FZ2
 DEx4 work 5 riscv 0 22 cbkPe4?Hm8<1l6G^jF<oX1
 R9
 R10
 R11
-!i122 5
+!i122 257
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/riscv_struct.vhd
-l90
-L16 110
-V;DR=QS@MlMKf@]kgoLLH_0
-!s100 iT@OJKf05B6:^0dWNWLU^1
+l306
+L16 481
+VKl6mYhaQ6Td=5IgGozJ:i1
+!s100 g2kIIIZMjjCc40XWVLO@L2
 R14
 33
-R26
+R23
 !i10b 1
-R27
+R24
 R17
-R28
+R25
 !i113 0
 R19
 R20
 Esoc
-R37
+R8
 R10
 R11
-!i122 6
+!i122 238
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_entity.vhd
 l0
-R30
+R38
 VeCaF2G@eLBD@EaPMNEV`Z0
 !s100 AQQo@X6ikLeH95iCZNW093
 R14
 33
-R38
-!i10b 1
 R39
-R17
+!i10b 1
 R40
+R17
+R41
 !i113 0
 R19
 R20
 Astruct
+R37
 DEx9 riscv_lib 5 riscv 0 22 cbkPe4?Hm8<1l6G^jF<oX1
 DEx9 riscv_lib 13 peripherie_01 0 22 ]JY<ioW@MJO4<g>3mZiZh3
 DEx4 work 3 soc 0 22 eCaF2G@eLBD@EaPMNEV`Z0
 R10
 R11
-!i122 6
+!i122 257
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_struct.vhd
 l39
@@ -868,33 +1869,33 @@ V7Zmbz5XB=mcNf20nML=b^2
 !s100 z;TJXB4VdJfg6m:VJgLZn3
 R14
 33
-R38
+R23
 !i10b 1
-R39
+R24
 R17
-R40
+R25
 !i113 0
 R19
 R20
 Esoc_tb
-R29
+R8
 R10
 R11
-!i122 0
+!i122 238
 R12
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_entity.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_entity.vhd
 l0
-R30
+R38
 VCR?dezICR<kX3GC;iUC[Z3
 !s100 F><zDc06LX:@IgDATM2Pz1
 R14
 33
-R31
+R39
 !i10b 1
-R32
+R40
 R17
-R33
+R41
 !i113 0
 R19
 R20
@@ -905,7 +1906,7 @@ DEx9 riscv_lib 3 soc 0 22 eCaF2G@eLBD@EaPMNEV`Z0
 DEx4 work 6 soc_tb 0 22 CR?dezICR<kX3GC;iUC[Z3
 R10
 R11
-!i122 6
+!i122 257
 8/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd
 F/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hdl/soc_tb_struct.vhd
 l45
@@ -914,11 +1915,11 @@ VYYlQ^QALGE6lPQBX>6XhM2
 !s100 9DcA@S?L5:>^[On;=3`6Z1
 R14
 33
-R38
+R23
 !i10b 1
-R39
+R24
 R17
-R40
+R25
 !i113 0
 R19
 R20

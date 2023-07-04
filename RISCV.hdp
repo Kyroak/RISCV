@@ -6,6 +6,7 @@ RISCV_lib = $HDS_PROJECT_DIR/RISCV_lib/hdl
 RISCV_lib = $HDS_PROJECT_DIR/RISCV_lib/hds
 [hds_settings]
 default_library = RISCV_lib
+design_root = RISCV_lib.soc_tb(struct)soc_tb/struct.bd
 version = 3
 [library_type]
 RISCV_lib = regular

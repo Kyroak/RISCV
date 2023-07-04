@@ -1,0 +1,57 @@
+--
+-- VHDL Architecture RISCV_lib.rf.behav
+--
+-- Created:
+--          by - flxpuchr.meyer (pc032)
+--          at - 15:19:13 05/16/23
+--
+-- using Mentor Graphics HDL Designer(TM) 2022.3 Built on 14 Jul 2022 at 13:56:12
+--
+library ieee;
+use ieee.numeric_std.all;
+
+ARCHITECTURE behav OF rf IS -- ist ein Speicher
+
+type register_file_type is array (0 to 31) of word;
+
+signal register_file: register_file_type;
+
+
+BEGIN
+  
+    
+    reg_A_dc <= register_file(to_integer(unsigned(sela_dec)));
+    reg_B_dc <= register_file(to_integer(unsigned(selb_dec)));
+  
+  process(clk, res_n) is
+  begin
+    if res_n = '0' then
+      register_file <= ( others => (others => '0'));
+       
+    else
+      if clk'event and clk = '1' then
+      
+      
+        if reg_addr_wb = x_0 then
+        
+          NULL; -- nichts machen
+        
+        else 
+        
+          register_file(to_integer(unsigned(reg_addr_wb))) <= reg_value_wb; -- speicher
+      
+        end if;
+      
+      
+      end if;  
+    
+    
+    
+    
+    end if;
+    
+    
+  end process;
+
+END ARCHITECTURE behav;
+
