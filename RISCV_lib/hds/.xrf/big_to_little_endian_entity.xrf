@@ -1,0 +1,18 @@
+DESIGN big_to_little_endian
+VIEW interface
+NO_GRAPHIC 0
+DESIGN big_to_little_endian
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN big_to_little_endian
+VIEW interface
+GRAPHIC 51,0 15 0 
+DESIGN big_to_little_endian
+VIEW interface
+GRAPHIC 56,0 16 0 
+DESIGN big_to_little_endian
+VIEW interface
+GRAPHIC 1,0 19 0 
+DESIGN big_to_little_endian
+VIEW interface
+GRAPHIC 1,0 20 0 

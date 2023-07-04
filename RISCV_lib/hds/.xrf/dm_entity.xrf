@@ -1,6 +1,30 @@
 DESIGN dm
-VIEW generated@instance
+VIEW interface
 NO_GRAPHIC 0
 DESIGN dm
-VIEW generated@instance
-GRAPHIC 43,0 8 0 
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 632,0 15 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 637,0 16 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 642,0 17 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 647,0 18 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 652,0 19 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 657,0 20 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 1,0 23 0 
+DESIGN dm
+VIEW interface
+GRAPHIC 1,0 24 0 

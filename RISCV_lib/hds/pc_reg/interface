@@ -23,7 +23,7 @@ appVersion "2022.3 Built on 14 Jul 2022 at 13:56:12"
 model (Symbol
 commonDM (CommonDM
 ldm (LogicalDM
-suid 9,0
+suid 13,0
 usingSuid 1
 emptyRow *1 (LEmptyRow
 )
@@ -69,10 +69,10 @@ decl (Decl
 n "clk"
 t "std_logic"
 o 1
-suid 6,0
+suid 10,0
 )
 )
-uid 209,0
+uid 260,0
 )
 *15 (LogPort
 port (LogicalPort
@@ -81,10 +81,10 @@ decl (Decl
 n "if_u_next_pc"
 t "word"
 o 4
-suid 7,0
+suid 11,0
 )
 )
-uid 211,0
+uid 262,0
 )
 *16 (LogPort
 port (LogicalPort
@@ -94,10 +94,10 @@ decl (Decl
 n "pc_if"
 t "word"
 o 5
-suid 8,0
+suid 12,0
 )
 )
-uid 213,0
+uid 264,0
 )
 *17 (LogPort
 port (LogicalPort
@@ -106,10 +106,10 @@ decl (Decl
 n "res_n"
 t "std_logic"
 o 2
-suid 9,0
+suid 13,0
 )
 )
-uid 215,0
+uid 266,0
 )
 ]
 )
@@ -165,25 +165,25 @@ uid 78,0
 litem &14
 pos 0
 dimension 20
-uid 210,0
+uid 261,0
 )
 *24 (MRCItem
 litem &15
 pos 1
 dimension 20
-uid 212,0
+uid 263,0
 )
 *25 (MRCItem
 litem &16
 pos 2
 dimension 20
-uid 214,0
+uid 265,0
 )
 *26 (MRCItem
 litem &17
 pos 3
 dimension 20
-uid 216,0
+uid 267,0
 )
 ]
 )
@@ -454,7 +454,7 @@ value "/u/home/stud/flxpuchr/HDS/RISCV/RISCV_lib/hds/pc_reg"
 )
 (vvPair
 variable "date"
-value "05/09/23"
+value "06/13/23"
 )
 (vvPair
 variable "day"
@@ -466,7 +466,7 @@ value "Tuesday"
 )
 (vvPair
 variable "dd"
-value "09"
+value "13"
 )
 (vvPair
 variable "entity_name"
@@ -494,7 +494,7 @@ value "flxpuchr"
 )
 (vvPair
 variable "graphical_source_date"
-value "05/09/23"
+value "06/13/23"
 )
 (vvPair
 variable "graphical_source_group"
@@ -506,7 +506,7 @@ value "pc032"
 )
 (vvPair
 variable "graphical_source_time"
-value "15:03:32"
+value "15:36:35"
 )
 (vvPair
 variable "group"
@@ -525,8 +525,12 @@ variable "library"
 value "RISCV_lib"
 )
 (vvPair
+variable "library_downstream_QuestaSimCompiler"
+value "$HDS_PROJECT_DIR/RISCV_lib/questasim"
+)
+(vvPair
 variable "mm"
-value "05"
+value "06"
 )
 (vvPair
 variable "module_name"
@@ -534,11 +538,11 @@ value "pc_reg"
 )
 (vvPair
 variable "month"
-value "May"
+value "Jun"
 )
 (vvPair
 variable "month_long"
-value "May"
+value "June"
 )
 (vvPair
 variable "p"
@@ -582,11 +586,11 @@ value "<TBD>"
 )
 (vvPair
 variable "task_QuestaCDCFormalPath"
-value "$QUESTA_HOME/bin"
+value "<TBD>"
 )
 (vvPair
 variable "task_QuestaSimPath"
-value "<TBD>"
+value "$QUESTA_HOME/bin"
 )
 (vvPair
 variable "task_VCSPath"
@@ -606,7 +610,7 @@ value "interface"
 )
 (vvPair
 variable "time"
-value "15:03:32"
+value "15:36:35"
 )
 (vvPair
 variable "unit"
@@ -641,34 +645,34 @@ optionalChildren [
 uid 8,0
 optionalChildren [
 *60 (CptPort
-uid 189,0
+uid 240,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 190,0
+uid 241,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "14250,7625,15000,8375"
+xt "14250,45625,15000,46375"
 )
 tg (CPTG
-uid 191,0
+uid 242,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 192,0
+uid 243,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,7550,17500,8450"
+xt "16000,45550,17500,46450"
 st "clk"
-blo "16000,8250"
+blo "16000,46250"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 193,0
+uid 244,0
 va (VaSet
 font "courier,8,0"
 )
@@ -682,39 +686,39 @@ decl (Decl
 n "clk"
 t "std_logic"
 o 1
-suid 6,0
+suid 10,0
 )
 )
 )
 *61 (CptPort
-uid 194,0
+uid 245,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 195,0
+uid 246,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "14250,22625,15000,23375"
+xt "14250,29625,15000,30375"
 )
 tg (CPTG
-uid 196,0
+uid 247,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 197,0
+uid 248,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,22550,22500,23450"
+xt "16000,29550,22500,30450"
 st "if_u_next_pc"
-blo "16000,23250"
+blo "16000,30250"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 198,0
+uid 249,0
 va (VaSet
 font "courier,8,0"
 )
@@ -728,15 +732,15 @@ decl (Decl
 n "if_u_next_pc"
 t "word"
 o 4
-suid 7,0
+suid 11,0
 )
 )
 )
 *62 (CptPort
-uid 199,0
+uid 250,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 200,0
+uid 251,0
 va (VaSet
 vasetType 1
 fg "0,65535,0"
@@ -744,11 +748,11 @@ fg "0,65535,0"
 xt "15250,5250,16000,6000"
 )
 tg (CPTG
-uid 201,0
+uid 252,0
 ps "CptPortTextPlaceStrategy"
 stg "RightVerticalLayoutStrategy"
 f (Text
-uid 202,0
+uid 253,0
 ro 270
 va (VaSet
 font "courier,8,0"
@@ -761,7 +765,7 @@ tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 203,0
+uid 254,0
 va (VaSet
 font "courier,8,0"
 )
@@ -776,39 +780,39 @@ decl (Decl
 n "pc_if"
 t "word"
 o 5
-suid 8,0
+suid 12,0
 )
 )
 )
 *63 (CptPort
-uid 204,0
+uid 255,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 205,0
+uid 256,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "14250,11625,15000,12375"
+xt "14250,48625,15000,49375"
 )
 tg (CPTG
-uid 206,0
+uid 257,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 207,0
+uid 258,0
 va (VaSet
 font "courier,8,0"
 )
-xt "16000,11550,18500,12450"
+xt "16000,48550,18500,49450"
 st "res_n"
-blo "16000,12250"
+blo "16000,49250"
 tm "CptPortNameMgr"
 )
 )
 dt (MLText
-uid 208,0
+uid 259,0
 va (VaSet
 font "courier,8,0"
 )
@@ -822,7 +826,7 @@ decl (Decl
 n "res_n"
 t "std_logic"
 o 2
-suid 9,0
+suid 13,0
 )
 )
 )
@@ -835,8 +839,9 @@ fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "15000,6000,16000,43000"
+xt "15000,6000,16000,50000"
 )
+oxt "15000,6000,16000,43000"
 biTextGroup (BiTextGroup
 uid 10,0
 ps "CenterOffsetStrategy"
@@ -846,18 +851,18 @@ uid 11,0
 va (VaSet
 font "courier,8,1"
 )
-xt "13250,23600,17750,24500"
+xt "13250,27100,17750,28000"
 st "RISCV_lib"
-blo "13250,24300"
+blo "13250,27800"
 )
 second (Text
 uid 12,0
 va (VaSet
 font "courier,8,1"
 )
-xt "13250,24500,16250,25400"
+xt "13250,28000,16250,28900"
 st "pc_reg"
-blo "13250,25200"
+blo "13250,28700"
 )
 )
 gi *64 (GenericInterface
@@ -870,7 +875,7 @@ uid 15,0
 va (VaSet
 font "courier,8,0"
 )
-xt "-11500,20500,-1000,21400"
+xt "-11500,24000,-1000,24900"
 st "Generic Declarations"
 )
 header "Generic Declarations"
@@ -1257,8 +1262,7 @@ xt "0,900,15500,4500"
 st "LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 LIBRARY RISCV_lib;
-USE RISCV_lib.opcode_word.ALL;
-"
+USE RISCV_lib.opcode_word.ALL;"
 tm "PackageList"
 )
 ]
@@ -1537,6 +1541,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 216,0
+lastUid 267,0
 activeModelName "Symbol:CDM"
 )

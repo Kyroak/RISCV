@@ -1,6 +1,24 @@
 DESIGN alu
-VIEW generated@instance
+VIEW interface
 NO_GRAPHIC 0
 DESIGN alu
-VIEW generated@instance
-GRAPHIC 43,0 8 0 
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN alu
+VIEW interface
+GRAPHIC 341,0 15 0 
+DESIGN alu
+VIEW interface
+GRAPHIC 351,0 16 0 
+DESIGN alu
+VIEW interface
+GRAPHIC 356,0 17 0 
+DESIGN alu
+VIEW interface
+GRAPHIC 346,0 18 0 
+DESIGN alu
+VIEW interface
+GRAPHIC 1,0 21 0 
+DESIGN alu
+VIEW interface
+GRAPHIC 1,0 22 0 

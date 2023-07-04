@@ -6,16 +6,16 @@ VIEW interface
 GRAPHIC 50,0 8 0 
 DESIGN pc_reg
 VIEW interface
-GRAPHIC 189,0 15 0 
+GRAPHIC 240,0 15 0 
 DESIGN pc_reg
 VIEW interface
-GRAPHIC 194,0 16 0 
+GRAPHIC 245,0 16 0 
 DESIGN pc_reg
 VIEW interface
-GRAPHIC 204,0 17 0 
+GRAPHIC 255,0 17 0 
 DESIGN pc_reg
 VIEW interface
-GRAPHIC 199,0 18 0 
+GRAPHIC 250,0 18 0 
 DESIGN pc_reg
 VIEW interface
 GRAPHIC 1,0 21 0 

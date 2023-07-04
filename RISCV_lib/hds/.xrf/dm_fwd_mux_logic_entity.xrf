@@ -1,0 +1,24 @@
+DESIGN dm_fwd_mux_logic
+VIEW interface
+NO_GRAPHIC 0
+DESIGN dm_fwd_mux_logic
+VIEW interface
+GRAPHIC 50,0 8 0 
+DESIGN dm_fwd_mux_logic
+VIEW interface
+GRAPHIC 285,0 15 0 
+DESIGN dm_fwd_mux_logic
+VIEW interface
+GRAPHIC 290,0 16 0 
+DESIGN dm_fwd_mux_logic
+VIEW interface
+GRAPHIC 300,0 17 0 
+DESIGN dm_fwd_mux_logic
+VIEW interface
+GRAPHIC 295,0 18 0 
+DESIGN dm_fwd_mux_logic
+VIEW interface
+GRAPHIC 1,0 21 0 
+DESIGN dm_fwd_mux_logic
+VIEW interface
+GRAPHIC 1,0 22 0 
